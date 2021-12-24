@@ -1,2 +1,2 @@
 # laravel_api
- A Laravel APi for hydrated a flutter consumer app
+ A Laravel APi for hydrating a flutter consumer app
